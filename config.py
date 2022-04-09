@@ -1,0 +1,5 @@
+API_URL = ''
+BTC_ID = ""
+API_KEY = ''
+SECRET_KEY = ''
+PASSPHRASE = ''
